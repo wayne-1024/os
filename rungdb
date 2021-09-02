@@ -1,0 +1,1 @@
+bochsgdb -f bochsConfig/bochsrcgdb.bxrc
